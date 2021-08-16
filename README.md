@@ -1,7 +1,7 @@
 # DocumentClassification
 
 This study is done to create a program which will classify the documents by using some efficient algorithms. Dataset contains 207 documents over 9 categories. Each document is
-stored on ".txt" files.
+stored in ".txt" files.
 
 ## Main Steps
 
