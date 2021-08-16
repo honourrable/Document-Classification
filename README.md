@@ -5,8 +5,8 @@ stored in ".txt" files.
 
 ## Main Steps
 
-- Data read
-- Data preprocessing
+1. Data read
+2. Data preprocessing
   - Removal of punctuation
   - Removal of numbers
   - Removal of duplicate words
@@ -14,11 +14,11 @@ stored in ".txt" files.
   - Lower case
   - Tokenization
   - Lemmatization
-- Bag of Words creation
-- Vector transformation
+3. Bag of Words creation
+4. Vector transformation
   - Bag of Words
   - Document2Vector
-- Classification
+5. Classification
 
 ## System success measurement
 
