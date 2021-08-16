@@ -5,20 +5,20 @@ stored in ".txt" files.
 
 ## Main Steps
 
-1. Data read
-2. Data preprocessing
-  1. Removal of punctuation
+- Data read
+- Data preprocessing
+  - Removal of punctuation
   - Removal of numbers
   - Removal of duplicate words
   - Removal of whitespaces
   - Lower case
   - Tokenization
   - Lemmatization
-3. Bag of Words creation
-4. Vector transformation
+- Bag of Words creation
+- Vector transformation
   - Bag of Words
   - Document2Vector
-5. Classification
+- Classification
 
 ## System success measurement
 
