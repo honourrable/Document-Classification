@@ -7,7 +7,7 @@ stored in ".txt" files.
 
 1. Data read
 2. Data preprocessing
-  - Removal of punctuation
+  1. Removal of punctuation
   - Removal of numbers
   - Removal of duplicate words
   - Removal of whitespaces
