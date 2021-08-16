@@ -1,0 +1,11 @@
+Tıbbi Cihazlar Ayrımcılık Mı Yapıyor? Yayınlanan bir ay önce açık 24 Haziran 2021 Tarafından Alara Büşra Ergen 
+Tıbbi Cihazlar Ayrımcılık Mı Yapıyor?
+Hastalar hakkında hayati kararlardan bazıları için kandaki oksijen miktarı ölçülerek alınıyor. Ancak ölçümü yapan oksimetre, siyah hastalarda yanlış sonuç veriyor. Ayrıntılar haberimizde!
+
+1970'lerde icat edilen oksimetre, parmak dokusundan biri kırmızı diğeri kızılötesi olmak üzere iki ışık demeti geçirerek, bu ışık demetlerinin ne miktarda emildiğini hesaplayarak çalışıyor. Sağlıklı bir insanın oksijen doygunluğu yüzde 92-96 seviyesindeyken siyahlarda bu testin hata oranı yüzde 12. Bunun nedeni oksimetrenin beyaz erkekler tarafından tasarlanmış ve yine beyaz erkekler üzerinde test edilmiş olması.
+
+Oksijenli ve oksijensiz hemoglobin bu frekansları farklı şekilde emiyor. Ancak koyu tenin ışığı beyaz deriye göre daha fazla emmesi sinyali zayıflatıyor. Beyaz ten üzerinde kalibrasyonu yapılmış cihaz, bu sebeple siyahlar üzerinde sağlıklı çalışmıyor.
+
+Kadın Erkek Ayrımı da Var
+
+Journal of the American Medical Association'da 2013 yılında yayınlanan bir araştırmaya göre kadınlara uygulanan kalça protezi ameliyatlarının başarısızlık oranı, erkeklere göre yüzde 29 daha yüksek. 2019'da yapılan bir başka çalışmaya göre kadınların kalp pili ameliyatlarından sonra yaşadığı komplikasyon oranı, erkeklerin iki katı. Her iki durumda da sorun, cihaz üreticilerinin erkek ve kadın bedenleri arasındaki fiziksel farklılıkları dikkate almaması.
